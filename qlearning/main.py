@@ -8,7 +8,7 @@ from qlearning import Qlearning
 
 if __name__=="__main__":
     grid_shape=(50,50)
-    test=dealWithMap(r"C:\Users\x5748\Downloads\Untitled Folder\map.pgm",grid_shape)
+    test=dealWithMap("map.pgm",grid_shape)
     #需要輸入三個參數:pgm檔的路徑、網格大小、起點[需要注意起點的位置是否在不可通過的範圍]
     #環境轉換成矩陣
     matrix=test.matrix_for_discrete.copy()
