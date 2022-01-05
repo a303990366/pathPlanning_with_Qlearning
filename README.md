@@ -10,6 +10,8 @@
   * reward.py -- define reward for agent  
 
 ### Consequence:
+  #### Original map
+  >> ![image](https://github.com/a303990366/pathPlanning_with_Qlearning/blob/main/qlearning/AnyConv.com__map.jpg)
   #### Path visualization
   >> ![image]( https://github.com/a303990366/pathPlanning_with_Qlearning/blob/main/qlearning/example_path_planing.png)
   #### Evaluation the performance about agent
